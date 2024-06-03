@@ -3,7 +3,12 @@
 <!--
 **minu2001/minu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+### I am shingu UNIV student 
+## This page for Practice coding 
+###  안녕하세요 신구대 학생입니다.
+Take it easy for everything.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
