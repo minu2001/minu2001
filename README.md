@@ -6,3 +6,4 @@
 ###  안녕하세요 신구대 학생입니다.
 Take it easy for everything.
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
